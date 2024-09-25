@@ -4,10 +4,10 @@
 
 **Spark fires** is a anti-pattern playground where we deliberately break Spark applications in various ways so you can observe what happens and potentially recognise the issue when you come across it in your day-to-day development and support activities.
 
-We plan to cover all the common scenarios you might hit in classic technical interview questions and a lot more.
+We plan to cover all the common scenarios you might hit in production, technical interview questions and a lot more.
 
 ### Scenarios
-The Spark-fires playground is scenario-based. Each scenario is [documented and run via a Jupyter notebook](notebooks) - so you can step through it, see the impact of different fixes, try different settings yourself, all the while viewing the application behaviour in the Spark UI. 
+The Spark-fires playground is scenario-based. Each scenario is [documented and run via a Jupyter notebook](notebooks) - so you can step through it, see the impact of different fixes, try different settings yourself, all while viewing the application behaviour in the Spark UI. 
 
 #### Bootstrapping
 For ease of use, the project is self-contained and has a [Docker Compose](https://docs.docker.com/compose/) file capable of starting a local Spark cluster with three workers. 
@@ -32,7 +32,7 @@ Note, this will take a while the first time, as it will need to download the con
 Once started the key cluster UIs should be available at:
  * Spark Master - http://localhost:8080/#/
  * Spark UI (once an app has been started) - http://localhost:4040/jobs/
- * Jupyter Lab - you can grab the URL or token from the docker compose output in your terminal
+ * Jupyter Lab - you can grab the URL or token from the docker compose output in your terminal (you may have to scroll up a little!)
    * http://127.0.0.1:8888/lab?token=<grab your token/URL from the startup logs>
 
 #### Scenarios
