@@ -47,4 +47,4 @@ Currently available scenarios are:
 
 ### Accompanying videos
 
-*[Coming soon, if folk show some interest!](https://www.youtube.com/@spark-fires-kz5qt)*
+*[Coming soon, if folk show some interest!](https://www.youtube.com/@spark-fires-kz5qt/community)*
