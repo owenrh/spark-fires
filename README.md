@@ -43,6 +43,7 @@ Currently available scenarios are:
 * [hot-node](http://127.0.0.1:8888/lab/tree/work/hot-node.ipynb)
 * [show on uncached dataframe](http://127.0.0.1:8888/lab/tree/work/show-on-uncached-df.ipynb)
 * [premature dataframe caching](http://127.0.0.1:8888/lab/tree/work/premature-caching.ipynb)
+* [more cores than partitions](http://127.0.0.1:8888/lab/tree/work/more-cores-than-partitions.ipynb)
 
 
 ### Accompanying videos
