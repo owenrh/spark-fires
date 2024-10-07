@@ -40,10 +40,10 @@ Once started the key cluster UIs should be available at:
 *New scenarios are arriving in the coming weeks.*
 
 Currently available scenarios are:
-* [hot-node](http://127.0.0.1:8888/lab/tree/work/hot-node.ipynb)
-* [show on uncached dataframe](http://127.0.0.1:8888/lab/tree/work/show-on-uncached-df.ipynb)
-* [premature dataframe caching](http://127.0.0.1:8888/lab/tree/work/premature-caching.ipynb)
-* [more cores than partitions](http://127.0.0.1:8888/lab/tree/work/more-cores-than-partitions.ipynb)
+* [hot-node](notebooks/hot-node.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/hot-node.ipynb)
+* [show on uncached dataframe](notebooks/show-on-uncached-df.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/show-on-uncached-df.ipynb)
+* [premature dataframe caching](notebooks/premature-caching.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/premature-caching.ipynb)
+* [more cores than partitions](notebooks/more-cores-than-partitions.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/more-cores-than-partitions.ipynb)
 
 
 ### Accompanying videos
