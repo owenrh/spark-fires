@@ -44,7 +44,7 @@ Currently available scenarios are:
 * [show on uncached dataframe](notebooks/show-on-uncached-df.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/show-on-uncached-df.ipynb)
 * [premature dataframe caching](notebooks/premature-caching.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/premature-caching.ipynb)
 * [more cores than partitions](notebooks/more-cores-than-partitions.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/more-cores-than-partitions.ipynb)
-
+* [the perils of small files](notebooks/small-files-issues.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/small-files-issues.ipynb)
 
 ### Accompanying videos
 
