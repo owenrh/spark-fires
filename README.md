@@ -35,7 +35,7 @@ Once started the key cluster UIs should be available at:
  * Jupyter Lab - you can grab the URL or token from the docker compose output in your terminal (you may have to scroll up a little!)
    * http://127.0.0.1:8888/lab?token=<grab your token/URL from the startup logs>
 
-#### Scenarios
+#### Available scenarios
 
 *New scenarios are arriving in the coming weeks.*
 
