@@ -45,6 +45,7 @@ Currently available scenarios are:
 * [premature dataframe caching](notebooks/premature-caching.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/premature-caching.ipynb)
 * [more cores than partitions](notebooks/more-cores-than-partitions.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/more-cores-than-partitions.ipynb)
 * [the perils of small files](notebooks/small-files-issues.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/small-files-issues.ipynb)
+* [unnecessary UDFs](notebooks/unnecessary-udfs.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/unnecessary-udfs.ipynb)
 
 ### Accompanying videos
 
