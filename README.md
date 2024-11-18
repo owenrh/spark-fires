@@ -46,6 +46,7 @@ Currently available scenarios are:
 * [more cores than partitions](notebooks/more-cores-than-partitions.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/more-cores-than-partitions.ipynb)
 * [the perils of small files](notebooks/small-files-issues.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/small-files-issues.ipynb)
 * [unnecessary UDFs](notebooks/unnecessary-udfs.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/unnecessary-udfs.ipynb)
+* [file formats are not created equal](notebooks/file-formats-are-not-created-equal.ipynb) [(local Jupyter)](http://127.0.0.1:8888/lab/tree/work/file-formats-are-not-created-equal.ipynb)
 
 ### Accompanying videos
 
